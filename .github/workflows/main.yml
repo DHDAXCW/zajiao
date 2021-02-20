@@ -10,7 +10,7 @@ on:
 
 env:
   REPO_URL: https://github.com/DHDAXCW/openwrt
-  REPO_BRANCH: 20.02
+  REPO_BRANCH: 21.02
   CONFIG_FILE: configs/lean/lean.config
   DIY_SH: scripts/lean.sh
   IPV6MOD_IN_FIRMWARE: true
