@@ -52,9 +52,9 @@ mkdir parted
 cp luci-app-diskman/Parted.Makefile parted/Makefile
 
 # Add luci-app-dockerman
-rm -rf ../lean/luci-app-docker
-git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
-git clone --depth=1 https://github.com/lisaac/luci-lib-docker
+#rm -rf ../lean/luci-app-docker
+#git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
+#git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
 # Add luci-app-gowebdav
 git clone --depth=1 https://github.com/immortalwrt/openwrt-gowebdav
